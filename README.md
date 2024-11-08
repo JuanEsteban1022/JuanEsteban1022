@@ -9,7 +9,7 @@ Juan Esteban Lopez</a></h1>
 
 - 🔭 I’m currently working in <a href="https://qualitycolombia.com/" target="blank">Quality Colombia S.A</a>
 
-- 🧪 I am currently learning unit testing for Java, expressJS,
+- 🧪 I am currently learning unit testing for Java
 
 - 👨🏻‍💻 I am currently improving my NodeJS skills. 
 
