@@ -9,9 +9,13 @@ Juan Esteban Lopez</a></h1>
 
 - 🔭 I’m currently working in <a href="https://qualitycolombia.com/" target="blank">Quality Colombia S.A</a>
 
+- 🧪 I am currently learning unit testing for Java, expressJS,
+
+- 👨🏻‍💻 I am currently improving my NodeJS skills. 
+
 - 🌱I am currently working on Web App (AngularJS v15) for Frontend development and Java(8,11) Spring Boot for Backend development.
 
-- 🌱 I currently have an A2 level of English, but every day I seek to improve this skill by reading documentation and listening to podcasts.
+- 🌍 I currently have an A2 level of English, but every day I seek to improve this skill by reading documentation and listening to podcasts.
   
 - :nerd_face: Always `learning new things`.
 <br/>
