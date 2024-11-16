@@ -64,7 +64,7 @@ Juan Esteban Lopez</a></h1>
 					<img src="https://img.icons8.com/?size=40&id=n98knU41v5Aq&format=png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/juanestebanlop">
 			<img src="https://img.icons8.com/?size=40&id=32323&format=png"></a>
-   <a href="mailto:avsingh@umass.edu">
+   <a href="mailto:juanesteban1022@gmail.com">
      <img src="https://img.icons8.com/?size=40&id=37246&format=png"/>
    </a>
       </div>
